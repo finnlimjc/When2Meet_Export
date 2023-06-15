@@ -13,7 +13,7 @@ To address this issue, I got to to work and programmed a simple export program s
 **Accuracy**: Obtain precise availability details, ensuring reliable and informed decision-making.
 
 # Known Issues
-As this project was created to make my life easier in the planning process, it has served its purpose and I have not actively maintained or updated it recently. Consequently, there might be unconsidered edge cases and compatibility issues with different languages or scenarios that could affect the export functionality. Although it can provide a useful starting point for automating the extraction of When2Meet data, it may require further customization or adjustments to suit specific use cases.
+As this project was created to make my life easier in the planning process, it has served its purpose and I have not actively maintained or updated it recently. Consequently, there might be unconsidered edge cases, compatibility issues with different languages and people using numbers in their names, among others. Although it can provide a useful starting point for automating the extraction of When2Meet data, it may require further customization or adjustments to suit specific use cases.
 
 # Closing Statement
 Feel free to utilize the code and adapt it to your specific needs! The When2Meet Data Export project can serve as a starting point or a reference for similar endeavors in automating the extraction of data from When2Meet event polls. All the best!
